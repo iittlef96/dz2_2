@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dz2_2", "dz2_2\dz2_2.vcxproj", "{DBA4B54E-CECD-4B30-AA92-54771642C430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA4B54E-CECD-4B30-AA92-54771642C430}.Debug|x64.ActiveCfg = Debug|x64
+		{DBA4B54E-CECD-4B30-AA92-54771642C430}.Debug|x64.Build.0 = Debug|x64
+		{DBA4B54E-CECD-4B30-AA92-54771642C430}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBA4B54E-CECD-4B30-AA92-54771642C430}.Debug|x86.Build.0 = Debug|Win32
+		{DBA4B54E-CECD-4B30-AA92-54771642C430}.Release|x64.ActiveCfg = Release|x64
+		{DBA4B54E-CECD-4B30-AA92-54771642C430}.Release|x64.Build.0 = Release|x64
+		{DBA4B54E-CECD-4B30-AA92-54771642C430}.Release|x86.ActiveCfg = Release|Win32
+		{DBA4B54E-CECD-4B30-AA92-54771642C430}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {028284AF-A130-4C49-B0CD-DE12087CCBD8}
+	EndGlobalSection
+EndGlobal
